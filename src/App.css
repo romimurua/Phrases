@@ -1,0 +1,43 @@
+* {
+    font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+    margin: 0 auto;
+}
+
+.App {
+  text-align: end;
+}
+
+.card {
+  width: 450px;
+  padding: 10px;
+  box-shadow: black 1px 1px 5px;
+  background-color: white;
+}
+
+
+.card p i {
+  font-size: 40px;
+  color: blacks;
+}
+
+
+.text {
+  text-align: center;
+  padding: 20px;
+}
+
+.author {
+  text-align: end;
+  padding: 10px;
+}
+
+.button {
+  border-radius: 50%;
+  box-shadow: black 1px 1px 5px;
+  margin: 10px;
+  background-color: black;
+}
+
+.card button i {
+  color: white;
+}
